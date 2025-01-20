@@ -20,7 +20,7 @@ Heart disease remains one of the leading causes of death worldwide. By simulatin
 ## Setup and Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/heart-disease-markov-chains.git
+   git clone https://github.com/username/heart-disease-markov-chains.git
    ```
 2. Navigate to the project directory:
    ```
